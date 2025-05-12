@@ -1,0 +1,51 @@
+# Python temporary files and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+handgesture_env/
+.venv/
+
+*.egg-info/
+
+# Data files (Important: Exclude these from Git!)
+data/*.csv
+
+# TensorFlow model files (If you have other model formats, add them)
+*.h5
+*.keras
+*.tflite
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# IDE specific files
+.idea/
+.project
+.settings
+
+
+# OS specific files
+.DS_Store
+Thumbs.db
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Jupyter Notebook temporary files
+.jupyter/

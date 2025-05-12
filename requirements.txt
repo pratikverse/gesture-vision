@@ -1,0 +1,9 @@
+pandas
+numpy
+tensorflow
+matplotlib
+scikit-learn
+seaborn
+mediapipe
+opencv-python
+
