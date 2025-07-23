@@ -6,7 +6,7 @@ class KeyPointClassifier(object):
 
     def __init__(
         self,
-        model_path='model/keypoint_classifier/keypoint_classifier.tflite',  # Default to .tflite
+        model_path='C:/Users/kprat/OneDrive/Desktop/github/gesture-vision/notebooks/model/keypoint_classifier/keypoint_classifier.tflite',  # Default to .tflite
         num_threads=1,
     ):
         print(f"Loading Static classifier model from: {model_path}")  # Debugging
