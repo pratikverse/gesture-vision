@@ -1,4 +1,4 @@
-# ✋ Hand Gesture Recognition Project
+# ✋ gesture vision
 
 ## Overview
 
